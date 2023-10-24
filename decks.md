@@ -1,5 +1,5 @@
 | Commander | Colors  | Decklist | Primer | Comment |
-|---|---|---|---|---|
+|---| :---: |---|---|---|
 | Najeela, the Blade-Blossom | ⚪🔵⚫🔴🟢 | [decklist](https://www.moxfield.com/decks/TewPrhW1ikSpGKP-UY-D6w)  | [primer](https://www.moxfield.com/decks/jT8Y9X4tlUmeNZ2AjkD1Vg/primer)  | 5 color creature combo |
 | Talion, the Kindly lord | 🔵⚫ | [decklist](https://www.moxfield.com/decks/y2ZXJcylBUuoZOmxzhVTdQ) | | Control deck that drains life totals |
 | Atraxa, Grand Unifier | ⚪🔵⚫🟢 | [decklist](https://www.moxfield.com/decks/mIB_PJT76kW3qkCTrt9OMA) | [primer](https://www.moxfield.com/decks/fkE6bnKA4kSrL_rE4TiwTQ/primer) | Slower midrange deck with a lot of value |
