@@ -14,7 +14,7 @@ permalink: /decks
 | Kenrith, the Returned King | ⚪🔵⚫🔴🟢 | [decklist](https://www.moxfield.com/decks/hc93vW1G0EeTbrwBC_9xeQ) | [primer](https://www.moxfield.com/decks/MTRqsVYpIke3MsWaUKHtGA/primer)* | 5 color combo madness |
 | Tivit, Seller of Secrets | ⚪🔵⚫ | [decklist](https://www.moxfield.com/decks/-pbXo0XfL0ak5o5SdfDnwQ) | [primer](https://www.moxfield.com/decks/Q-AmLI8lM021GiB5Ab5ulw/primer)* | Esper value can play control until you show a combo |
 | Winota, Joiner of Forces | ⚪🔴 | [decklist](https://www.moxfield.com/decks/u7VFj-q_pk2lAhr3NNuh-Q) | [primer](https://moxfield.com/decks/j-0aJlxuOUm9FnKRvJcfZw/primer)* | Winota list is outdated and needs some love |
-| Tymna the Weaver and Kraum, Ludvic's Opus | ⚪🔵⚫🔴 | [decklist(https://www.moxfield.com/decks/_BFURvXM-0yV4wZiRORiSQ) | [primer](https://www.moxfield.com/decks/2zSXC86KokyKs6vAS9-_sw/primer)* | premiere deck hinging between combo and control |
+| Tymna the Weaver and Kraum, Ludvic's Opus | ⚪🔵⚫🔴 | [decklist](https://www.moxfield.com/decks/_BFURvXM-0yV4wZiRORiSQ) | [primer](https://www.moxfield.com/decks/2zSXC86KokyKs6vAS9-_sw/primer)* | premiere deck hinging between combo and control |
 
 
 
