@@ -13,7 +13,7 @@
 | Tymna the Weaver and Kraum, Ludvic's Opus | ⚪🔵⚫🔴 | [decklist](https://www.moxfield.com/decks/7zg7RNvBZ0SMuKWso0uJ_g) | [primer](https://www.moxfield.com/decks/2zSXC86KokyKs6vAS9-_sw/primer)* | Premiere deck hinging between combo and control |
 | Dargo, the Shipwrecker and Thrasios, Triton Hero | 🔵🔴🟢 | [decklist](https://www.moxfield.com/decks/XvMFxBJfNkKO9ZsQFw-ZWg) | [primer](https://www.moxfield.com/decks/NbC7buwS5EqgHtXglU7f_A/primer) |  Creature combo heavy midrange |
 | Narset, Enlightened Exile | ⚪🔵🔴 | [decklist](https://www.moxfield.com/decks/3RZzYFypR0aCx3lCaSF3pw) | [primer](https://www.moxfield.com/decks/Ps1-4G01C06bTuCdRrRiHg/primer) | Dualcaster Breach deck that can play a value game |
-| Meria | ⚪🔵🔴 | [decklist](https://www.moxfield.com/decks/3RZzYFypR0aCx3lCaSF3pw) | [primer](https://www.moxfield.com/decks/Ps1-4G01C06bTuCdRrRiHg/primer) | Dualcaster Breach deck that can play a value game |
+| Hulkpile | ⚪⚫🟢 (🔴?) | [decklist](https://www.moxfield.com/decks/oAU0KJ07NEe263qx3fmh_w) | [primer](https://www.moxfield.com/decks/Ps1-4G01C06bTuCdRrRiHg/primer) | Graveyard shanannigans |
 
  * means that the primer and the deck don't completely match
  
