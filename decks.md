@@ -10,9 +10,10 @@
 | Kenrith, the Returned King | ⚪🔵⚫🔴🟢 | [decklist](https://www.moxfield.com/decks/hc93vW1G0EeTbrwBC_9xeQ) | [primer](https://www.moxfield.com/decks/MTRqsVYpIke3MsWaUKHtGA/primer)* | 5 color combo madness |
 | Tivit, Seller of Secrets | ⚪🔵⚫ | [decklist](https://www.moxfield.com/decks/-pbXo0XfL0ak5o5SdfDnwQ) | [primer](https://www.moxfield.com/decks/Q-AmLI8lM021GiB5Ab5ulw/primer)* | Esper value can play control until you show a combo |
 | Winota, Joiner of Forces | ⚪🔴 | [decklist](https://www.moxfield.com/decks/u7VFj-q_pk2lAhr3NNuh-Q) | [primer](https://moxfield.com/decks/j-0aJlxuOUm9FnKRvJcfZw/primer)* | Winota list is outdated and needs some love |
-| Tymna the Weaver and Kraum, Ludvic's Opus | ⚪🔵⚫🔴 | [decklist](https://www.moxfield.com/decks/_BFURvXM-0yV4wZiRORiSQ) | [primer](https://www.moxfield.com/decks/2zSXC86KokyKs6vAS9-_sw/primer)* | Premiere deck hinging between combo and control |
+| Tymna the Weaver and Kraum, Ludvic's Opus | ⚪🔵⚫🔴 | [decklist](https://www.moxfield.com/decks/7zg7RNvBZ0SMuKWso0uJ_g) | [primer](https://www.moxfield.com/decks/2zSXC86KokyKs6vAS9-_sw/primer)* | Premiere deck hinging between combo and control |
 | Dargo, the Shipwrecker and Thrasios, Triton Hero | 🔵🔴🟢 | [decklist](https://www.moxfield.com/decks/XvMFxBJfNkKO9ZsQFw-ZWg) | [primer](https://www.moxfield.com/decks/NbC7buwS5EqgHtXglU7f_A/primer) |  Creature combo heavy midrange |
 | Narset, Enlightened Exile | ⚪🔵🔴 | [decklist](https://www.moxfield.com/decks/3RZzYFypR0aCx3lCaSF3pw) | [primer](https://www.moxfield.com/decks/Ps1-4G01C06bTuCdRrRiHg/primer) | Dualcaster Breach deck that can play a value game |
+| Meria | ⚪🔵🔴 | [decklist](https://www.moxfield.com/decks/3RZzYFypR0aCx3lCaSF3pw) | [primer](https://www.moxfield.com/decks/Ps1-4G01C06bTuCdRrRiHg/primer) | Dualcaster Breach deck that can play a value game |
 
  * means that the primer and the deck don't completely match
  
